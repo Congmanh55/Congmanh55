@@ -2,7 +2,9 @@ Hi there 👋. I'm Lê Công Mạnh
 
 I'm a Web Developer !
 
+![image](https://github.com/Congmanh55/Congmanh55/assets/112949277/45a0ac0d-d6b7-470b-adc3-81c99bd4a1dc)
 
+🌍 I'm based in Vietnamese
 
 <!--
 **Congmanh55/Congmanh55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
